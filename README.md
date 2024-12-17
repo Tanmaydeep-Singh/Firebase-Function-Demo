@@ -1,6 +1,6 @@
 Here are the files you're asking for: a `.gitignore` file and a `README.md` with detailed instructions on how to set up Firebase Cloud Functions locally.
 
-### 1. **`.gitignore` File**
+### 1. **`.gitignore` File.**
 
 This file ensures that unnecessary or sensitive files are not committed to your Git repository. Here's a basic `.gitignore` for a Firebase project using Node.js functions.
 
